@@ -2,7 +2,7 @@ name: 'Pull Request Build'
 
 on:
   pull_request_target:
-    branches: [ 'main', 'staging' ]
+    branches: [ 'main' ]
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
@@ -280,7 +280,7 @@ jobs:
             });
 
   PostProcess:
-    needs: [ Initialization, StatusCheck, CreatePRContainer, UpdatePRContainer ]
+    needs: [ Initialization, Build ]
     if: (!cancelled())
     runs-on: [ windows-latest ]
     name: Finalize the workflow
