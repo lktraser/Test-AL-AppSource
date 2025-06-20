@@ -7,5 +7,5 @@
   "gitHubRunnerShell": "pwsh",
   "doNotPublishApps": true,
   "artifact": "/onprem/24.2/de/first",
-  "templateSha": "800d0f7c23b73736a4fe9ec2b17dac2b4d98187f"
+  "templateSha": "6bb3512432064c8a2aa70fe8831346906138a7b8"
 }
