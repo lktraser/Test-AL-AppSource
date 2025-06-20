@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/main/settings.schema.json",
   "type": "Staging",
-  "artifact": "////latest",
+  "artifact": "/onprem/24.2/de/first",
   "cacheImageName": "",
   "versioningStrategy": 0,
   "appDependencyProbingPaths": [

@@ -3,5 +3,6 @@
   "type": "AppSource App",
   "templateUrl": "https://github.com/lktraser/AL-Go-AppSource@main",
   "gitHubRunner": "ubuntu-latest",
-  "gitHubRunnerShell": "pwsh"
+  "gitHubRunnerShell": "pwsh",
+  "artifact": "/onprem/24.2/de/first"
 }
