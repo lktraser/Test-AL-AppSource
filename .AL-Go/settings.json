@@ -8,5 +8,11 @@
     "App1"
   ],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "enableAppSourceCop": false,
+  "enablePerTenantExtensionCop": false,
+  "enableCodeCop": false,
+  "enableUICop": false,
+  "doNotSignApps": true,
+  "doNotRunTests": true
 }
