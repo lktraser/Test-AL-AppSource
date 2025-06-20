@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.2/settings.schema.json",
   "country": "de",
   "appSourceCopMandatoryAffixes": [
-    "<affix>"
+    "LKN"
   ],
   "appFolders": [
     "App1"
