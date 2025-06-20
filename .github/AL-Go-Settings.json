@@ -6,5 +6,6 @@
   "useCompilerFolder": true,
   "gitHubRunnerShell": "pwsh",
   "doNotPublishApps": true,
-  "artifact": "/onprem/24.2/de/first"
+  "artifact": "/onprem/24.2/de/first",
+  "templateSha": "800d0f7c23b73736a4fe9ec2b17dac2b4d98187f"
 }
