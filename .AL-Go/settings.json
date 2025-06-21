@@ -14,5 +14,6 @@
   "enableCodeCop": false,
   "enableUICop": false,
   "doNotSignApps": true,
-  "doNotRunTests": true
+  "doNotRunTests": true,
+  "generateDependencyArtifact": true
 }
